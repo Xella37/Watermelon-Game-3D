@@ -1,0 +1,8 @@
+{
+	"Lua.workspace.library": [
+		"C:/Users/Xelo/Documents/lua_environments/cc-tweaked-documentation/library"
+	],
+	"Lua.diagnostics.globals": [
+		"periphemu"
+	]
+}
