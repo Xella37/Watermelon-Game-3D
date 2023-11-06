@@ -5,6 +5,7 @@
 **You might have heard about the Suika Watermelon Game!** 🍉
 
 Now imagine, you play this game in 3D. Just kidding, you don't have to imagine that, because you can play this **right now**!
+Simply install the game for ComputerCraft with `wget run https://pinestore.cc/d/32`. (CraftOS-PC Accelerated with LuaJIT recommended)
 
 
 ## What to do
