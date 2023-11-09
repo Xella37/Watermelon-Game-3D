@@ -20,6 +20,7 @@ Simply install the game for ComputerCraft with `wget run https://pinestore.cc/d/
 Use 1, 2, 3, 4, 5 (default) to select the designed graphical quality.
 
 W/A/S/D • Rotate camera  
+Scrolling • Camera zoom  
 Arrow keys • Move cursor  
 Dragging mouse • Move cursor  
 SPACEBAR • Drop fruit  
