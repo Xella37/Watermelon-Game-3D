@@ -6,14 +6,13 @@
 
 Now imagine, you play this game in 3D. Just kidding, you don't have to imagine that, because you can play this **right now**!
 
+Simply install the game for ComputerCraft with `wget run https://pinestore.cc/d/32`. (CraftOS-PC Accelerated with LuaJIT recommended)
+
 
 ## What to do
 
-- <span style="background: linear-gradient(#7FCC19, #57A64E);background-clip: text;-webkit-background-clip: text;color: transparent;font-weight: bold;">
-Combine</span> smaller fruits into larger fruits to get a higher score
-- Reach the largest fruit: the
-<span style="background: linear-gradient(#7FCC19, #57A64E);background-clip: text;-webkit-background-clip: text;color: transparent;font-weight: bold;">
-watermelon</span>! (pretty difficult)
+- Combine smaller fruits into larger fruits to get a higher score
+- Reach the largest fruit: the watermelon! (pretty difficult)
 
 
 ## Controls
